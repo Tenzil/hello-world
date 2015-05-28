@@ -1,2 +1,2 @@
 # hello-world
-hello git
+hello worl from git
